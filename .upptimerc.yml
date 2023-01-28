@@ -12,11 +12,14 @@ sites:
   - name: Old Website
     url: https://site.therealzzy.xyz
     __dangerous__body_down: "Repl Unavailable"
-  - name: Jupyter Lab
-    url: https://pylab.therealzzy.xyz
+  - name: Files CDN
+    url: https://files.therealzzy.xyz
+    __dangerous__body_down: "Repl Unavailable"
   - name: My Shortlink Website
     url: $REALZZY_SHORTLINK
     __dangerous__body_down: "Repl Unavailable"
+  - name: Jupyter Lab
+    url: https://pylab.therealzzy.xyz
   - name: MC Test Server
     check: "tcp-ping"
     url: https://play.therealzzy.xyz
