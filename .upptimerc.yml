@@ -26,15 +26,17 @@ sites:
     port: 25565
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.therealzzy.xyz
-  # baseUrl: /web-uptime
   logoUrl: https://therealzzy.xyz/icon.png
+  favicon: https://therealzzy.xyz/icon.png
   name: Realzzy Status
-  introTitle: "**Realzzy Uptime Status** used for uptime monitoring."
+  introTitle: "**Realzzy Uptime Status** for monitoring."
   introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
-  theme: dark
+  theme: night
+  js: 'document.querySelector("nav").classList.add("animate__animated","animate__fadeInDown"),document.querySelector("main").classList.add("animate__animated","animate__fadeInUp");'
+  links:
+    - rel: stylesheet
+      href: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
   navbar:
     - title: Status
       href: /
@@ -45,4 +47,4 @@ status-website:
 
 i18n:
   activeIncidents: "Current Downtime"
-  footer: "This page is powered by [**Upptime**](https://upptime.js.org)"
+  footer: "(c) 2023 By [**Realzzy**](https://therealzzy.xyz).\nPowered by [**Upptime**](https://upptime.js.org)"
