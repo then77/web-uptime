@@ -76,18 +76,20 @@
     "url": "$REALZZY_SHORTLINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-shortlink-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 605,
     "timeDay": 605,
     "timeWeek": 605,
     "timeMonth": 605,
     "timeYear": 605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-28": 1
+    }
   },
   {
     "name": "Jupyter Lab",
@@ -95,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pylab.therealzzy.xyz.ico",
     "slug": "jupyter-lab",
     "status": "down",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 112
+      "2023-01-28": 583
     }
   },
   {
@@ -115,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.therealzzy.xyz.ico",
     "slug": "mc-test-server",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-28": 112
+      "2023-01-28": 583
     }
   }
 ]
