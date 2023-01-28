@@ -45,4 +45,4 @@ status-website:
 
 i18n:
   activeIncidents: "Current Downtime"
-  footer: "This page is powered by [**Upptime**](https://upptime.js.org)
+  footer: "This page is powered by [**Upptime**](https://upptime.js.org)"
