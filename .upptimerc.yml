@@ -32,8 +32,9 @@ status-website:
   # baseUrl: /web-uptime
   logoUrl: https://therealzzy.xyz/icon.png
   name: Realzzy Status
-  introTitle: "**Realzzy Uptime Status** built using [Upptime](https://upptime.js.org) and powered by Github."
-  introMessage: "You can see all my websites, api, etc. idk if they're online or not."
+  introTitle: "**Realzzy Uptime Status** used for uptime monitoring."
+  introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
+  theme: dark
   navbar:
     - title: Status
       href: /
@@ -42,5 +43,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: "Current Downtime"
+  footer: "This page is powered by [**Upptime**](https://upptime.js.org)
