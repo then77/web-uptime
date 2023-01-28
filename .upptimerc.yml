@@ -33,7 +33,7 @@ status-website:
   introTitle: "**Realzzy Uptime Status** for monitoring."
   introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
   theme: night
-  js: 'document.querySelector("nav").classList.add("animate__animated","animate__fadeInDown"),document.querySelector("main").classList.add("animate__animated","animate__fadeInUp");'
+  js: 'window.onload=()=>{document.querySelector("nav").classList.add("animate__animated","animate__fadeInDown"),document.querySelector("main").classList.add("animate__animated","animate__fadeInUp")};'
   links:
     - rel: stylesheet
       href: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
@@ -47,4 +47,4 @@ status-website:
 
 i18n:
   activeIncidents: "Current Downtime"
-  footer: "(c) 2023 By [**Realzzy**](https://therealzzy.xyz).\nPowered by [**Upptime**](https://upptime.js.org)"
+  footer: "(c) 2023 By [**Realzzy**](https://therealzzy.xyz). Powered by [**Upptime**](https://upptime.js.org)"
