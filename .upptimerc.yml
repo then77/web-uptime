@@ -25,7 +25,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.therealzzy.xyz
+  # cname: uptime.therealzzy.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://therealzzy.xyz/icon.png
   name: Realzzy Status
