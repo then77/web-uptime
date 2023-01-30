@@ -95,17 +95,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pylab.therealzzy.xyz.ico",
     "slug": "jupyter-lab",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "79.31%",
+    "uptimeDay": "79.31%",
+    "uptimeWeek": "79.31%",
+    "uptimeMonth": "79.31%",
+    "uptimeYear": "79.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-30": 0
+    }
   },
   {
     "name": "MC Test Server",
@@ -113,16 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.therealzzy.xyz.ico",
     "slug": "mc-test-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "29.52%",
+    "uptimeDay": "29.52%",
+    "uptimeWeek": "29.52%",
+    "uptimeMonth": "29.52%",
+    "uptimeYear": "29.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-30": 0
+    }
   }
 ]
