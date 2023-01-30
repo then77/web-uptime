@@ -33,7 +33,7 @@ status-website:
   introTitle: "**Realzzy Uptime Status** for monitoring."
   introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
   theme: night
-  js: 'window.onload=()=>{document.querySelector("nav").classList.add("animate__animated","animate__fadeIn"),document.querySelector("main").classList.add("animate__animated","animate__fadeInUp")};'
+  css: 'nav{animation:1s ease-in-out fadeInDown}main{animation:1s ease-in-out fadeIn}'
   links:
     - rel: stylesheet
       href: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
