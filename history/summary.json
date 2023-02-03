@@ -76,19 +76,19 @@
     "url": "$REALZZY_SHORTLINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-shortlink-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 613,
-    "timeDay": 684,
-    "timeWeek": 613,
-    "timeMonth": 613,
-    "timeYear": 613,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 627,
+    "timeDay": 771,
+    "timeWeek": 627,
+    "timeMonth": 627,
+    "timeYear": 627,
     "dailyMinutesDown": {
-      "2023-02-03": 1
+      "2023-02-03": 10
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 1065,
+      "2023-02-03": 1075,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-03": 1065,
+      "2023-02-03": 1075,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
