@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 366,
     "timeDay": 283,
-    "timeWeek": 366,
+    "timeWeek": 348,
     "timeMonth": 366,
     "timeYear": 366,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 553,
     "timeDay": 417,
-    "timeWeek": 553,
+    "timeWeek": 516,
     "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://site.therealzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/site.therealzzy.xyz.ico",
     "slug": "old-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 509,
     "timeDay": 440,
-    "timeWeek": 509,
+    "timeWeek": 513,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-04": 1
+    }
   },
   {
     "name": "Files CDN",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 432,
     "timeDay": 278,
-    "timeWeek": 432,
+    "timeWeek": 376,
     "timeMonth": 432,
     "timeYear": 432,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 693,
-    "timeWeek": 622,
+    "timeWeek": 637,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {}
@@ -106,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 53,
+      "2023-02-04": 1006,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -131,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 53,
+      "2023-02-04": 1006,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
