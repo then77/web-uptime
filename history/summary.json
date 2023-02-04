@@ -40,19 +40,19 @@
     "url": "https://site.therealzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/site.therealzzy.xyz.ico",
     "slug": "old-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 509,
-    "timeDay": 440,
-    "timeWeek": 513,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 774,
+    "timeDay": 2862,
+    "timeWeek": 1043,
+    "timeMonth": 774,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2023-02-04": 1
+      "2023-02-04": 11
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1006,
+      "2023-02-04": 1017,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -133,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1006,
+      "2023-02-04": 1017,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
