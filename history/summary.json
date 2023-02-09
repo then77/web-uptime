@@ -46,10 +46,10 @@
     "url": "https://site.therealzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/site.therealzzy.xyz.ico",
     "slug": "old-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
     "time": 1135,
@@ -58,6 +58,7 @@
     "timeMonth": 1135,
     "timeYear": 1135,
     "dailyMinutesDown": {
+      "2023-02-09": 1,
       "2023-02-08": 38
     }
   },
@@ -88,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-shortlink-website",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.57%",
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 673,
     "timeDay": 844,
     "timeWeek": 738,
     "timeMonth": 673,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-02-09": 38,
+      "2023-02-09": 27,
       "2023-02-08": 45
     }
   },
@@ -120,7 +121,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 537,
+      "2023-02-09": 560,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -150,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 537,
+      "2023-02-09": 560,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
