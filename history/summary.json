@@ -4,10 +4,10 @@
     "url": "https://therealzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/therealzzy.xyz.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 404,
@@ -16,7 +16,7 @@
     "timeMonth": 441,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-03-15": 18,
+      "2023-03-15": 19,
       "2023-02-09": 45,
       "2023-02-08": 29
     }
@@ -26,9 +26,9 @@
     "url": "https://api.therealzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.therealzzy.xyz.ico",
     "slug": "api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "97.22%",
+    "uptimeDay": "97.17%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.87%",
@@ -38,7 +38,7 @@
     "timeMonth": 488,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-03-15": 40,
+      "2023-03-15": 41,
       "2023-02-09": 17,
       "2023-02-08": 26
     }
@@ -70,9 +70,9 @@
     "url": "https://files.therealzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/files.therealzzy.xyz.ico",
     "slug": "files-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "97.21%",
+    "uptimeDay": "97.17%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.82%",
@@ -82,7 +82,7 @@
     "timeMonth": 820,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-03-15": 40,
+      "2023-03-15": 41,
       "2023-02-09": 47,
       "2023-02-08": 29
     }
@@ -129,7 +129,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-15": 672,
+      "2023-03-15": 685,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
@@ -193,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-15": 672,
+      "2023-03-15": 685,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
       "2023-03-12": 1440,
