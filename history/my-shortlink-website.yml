@@ -1,7 +1,7 @@
 url: $REALZZY_SHORTLINK
-status: down
-code: 502
-responseTime: 5196
-lastUpdated: 2023-04-07T18:00:06.043Z
+status: up
+code: 200
+responseTime: 21810
+lastUpdated: 2023-04-07T18:43:47.959Z
 startTime: Sat Jan 28 2023 11:18:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
