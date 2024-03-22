@@ -4,31 +4,17 @@ repo: web-uptime # The name of this repository
 
 sites:
   - name: Main Website
-    url: https://therealzzy.xyz
-    __dangerous__body_down: "Repl Unavailable"
-  - name: API Website
-    url: https://api.therealzzy.xyz
-    __dangerous__body_down: "Repl Unavailable"
+    url: https://realzzy.xyz
+    __dangerous__body_down: "Maintenance"
+  - name: v2 Website
+    url: https://v2.realzzy.xyz
   - name: Old Website
-    url: https://site.therealzzy.xyz
-    __dangerous__body_down: "Repl Unavailable"
-  - name: Files CDN
-    url: https://files.therealzzy.xyz
-    __dangerous__body_down: "Repl Unavailable"
-  - name: My Shortlink Website
-    url: $REALZZY_SHORTLINK
-    __dangerous__body_down: "Repl Unavailable"
-  - name: Jupyter Lab
-    url: https://pylab.therealzzy.xyz
-  - name: MC Test Server
-    check: "tcp-ping"
-    url: https://play.therealzzy.xyz
-    port: 25565
+    url: https://v1.realzzy.xyz
 
 status-website:
-  cname: uptime.therealzzy.xyz
-  logoUrl: https://therealzzy.xyz/icon.png
-  favicon: https://therealzzy.xyz/icon.png
+  cname: uptime.realzzy.xyz
+  logoUrl: https://v1.realzzy.xyz/icon.png
+  favicon: https://v1.realzzy.xyz/icon.png
   name: Realzzy Status
   introTitle: "**Realzzy Uptime Status** for monitoring."
   introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
@@ -41,10 +27,10 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://therealzzy.xyz
+      href: https://realzzy.xyz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 i18n:
   activeIncidents: "Current Downtime"
-  footer: "(c) 2023 By [**Realzzy**](https://therealzzy.xyz). Powered by [**Upptime**](https://upptime.js.org)"
+  footer: "(c) 2023 By [**Realzzy**](https://realzzy.xyz). Powered by [**Upptime**](https://upptime.js.org)"
