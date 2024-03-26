@@ -4,9 +4,9 @@
     "url": "https://realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/realzzy.xyz.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "82.14%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.15%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "79.35%",
@@ -16,6 +16,7 @@
     "timeMonth": 518,
     "timeYear": 538,
     "dailyMinutesDown": {
+      "2024-03-26": 0,
       "2024-02-22": 113,
       "2024-01-09": 1116,
       "2024-01-08": 1440,
@@ -106,9 +107,9 @@
     "url": "https://v2.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v2.realzzy.xyz.ico",
     "slug": "v2-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,16 +118,18 @@
     "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "Old Website",
     "url": "https://v1.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v1.realzzy.xyz.ico",
     "slug": "old-website",
-    "status": "up",
-    "uptime": "60.07%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "60.09%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "53.81%",
@@ -136,6 +139,7 @@
     "timeMonth": 377,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2024-03-26": 0,
       "2024-02-22": 102,
       "2024-01-09": 1127,
       "2024-01-08": 1440,
