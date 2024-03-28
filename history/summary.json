@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/realzzy.xyz.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "82.15%",
-    "uptimeDay": "87.86%",
+    "uptime": "82.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "79.32%",
-    "time": 530,
-    "timeDay": 105,
-    "timeWeek": 541,
-    "timeMonth": 490,
-    "timeYear": 536,
+    "time": 529,
+    "timeDay": 174,
+    "timeWeek": 166,
+    "timeMonth": 483,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2024-03-26": 175,
       "2024-02-22": 113,
@@ -97,8 +97,7 @@
       "2023-09-16": 34,
       "2023-06-06": 32,
       "2023-05-23": 69,
-      "2023-04-07": 104,
-      "2023-03-29": 18
+      "2023-04-07": 104
     }
   },
   {
@@ -107,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.realzzy.xyz.ico",
     "slug": "v2-website",
     "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "97.29%",
-    "time": 151,
-    "timeDay": 77,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "uptime": "97.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.78%",
+    "time": 155,
+    "timeDay": 187,
+    "timeWeek": 155,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2024-03-26": 175
     }
@@ -127,16 +126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/v1.realzzy.xyz.ico",
     "slug": "old-website",
     "status": "up",
-    "uptime": "60.13%",
-    "uptimeDay": "87.88%",
+    "uptime": "60.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "53.78%",
-    "time": 571,
-    "timeDay": 101,
-    "timeWeek": 203,
-    "timeMonth": 359,
-    "timeYear": 436,
+    "time": 569,
+    "timeDay": 138,
+    "timeWeek": 180,
+    "timeMonth": 352,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2024-03-26": 175,
       "2024-02-22": 102,
@@ -309,8 +308,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 841,
-      "2023-04-07": 144,
-      "2023-03-29": 18
+      "2023-04-07": 144
     }
   }
 ]
