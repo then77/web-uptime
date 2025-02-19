@@ -4,19 +4,19 @@
     "url": "https://realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/realzzy.xyz.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "81.33%",
-    "uptimeWeek": "79.89%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "82.07%",
+    "uptimeWeek": "80.11%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.40%",
     "time": 261,
     "timeDay": 271,
     "timeWeek": 278,
     "timeMonth": 300,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-02-19": 251,
+      "2025-02-19": 240,
       "2025-02-18": 324,
       "2025-02-17": 287,
       "2025-02-16": 185,
@@ -37,9 +37,9 @@
     "slug": "v2-website",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "81.67%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "92.83%",
+    "uptimeDay": "82.38%",
+    "uptimeWeek": "80.41%",
+    "uptimeMonth": "92.81%",
     "uptimeYear": "99.35%",
     "time": 274,
     "timeDay": 285,
@@ -47,7 +47,7 @@
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-02-19": 246,
+      "2025-02-19": 236,
       "2025-02-18": 319,
       "2025-02-17": 283,
       "2025-02-16": 182,
@@ -58,7 +58,7 @@
       "2025-02-11": 295,
       "2025-02-10": 414,
       "2025-02-09": 204,
-      "2025-02-08": 28
+      "2025-02-08": 49
     }
   },
   {
@@ -68,17 +68,17 @@
     "slug": "old-website",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "82.01%",
-    "uptimeWeek": "80.64%",
-    "uptimeMonth": "92.65%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "82.69%",
+    "uptimeWeek": "80.85%",
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "99.38%",
     "time": 254,
     "timeDay": 267,
     "timeWeek": 264,
     "timeMonth": 267,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-02-19": 242,
+      "2025-02-19": 232,
       "2025-02-18": 316,
       "2025-02-17": 280,
       "2025-02-16": 179,
@@ -89,7 +89,8 @@
       "2025-02-11": 293,
       "2025-02-10": 407,
       "2025-02-09": 201,
-      "2025-02-08": 183
+      "2025-02-08": 183,
+      "2025-02-07": 38
     }
   }
 ]
