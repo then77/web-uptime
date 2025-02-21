@@ -4,19 +4,19 @@
     "url": "https://realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/realzzy.xyz.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "86.67%",
-    "uptimeWeek": "79.89%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "86.59%",
+    "uptimeWeek": "80.32%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.40%",
     "time": 291,
-    "timeDay": 587,
-    "timeWeek": 336,
+    "timeDay": 611,
+    "timeWeek": 340,
     "timeMonth": 320,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-02-21": 182,
+      "2025-02-21": 183,
       "2025-02-20": 286,
       "2025-02-19": 345,
       "2025-02-18": 324,
@@ -27,7 +27,7 @@
       "2025-02-13": 234,
       "2025-02-12": 247,
       "2025-02-11": 301,
-      "2025-02-10": 92
+      "2025-02-10": 74
     }
   },
   {
@@ -35,19 +35,19 @@
     "url": "https://v2.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v2.realzzy.xyz.ico",
     "slug": "v2-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "86.88%",
-    "uptimeWeek": "80.45%",
-    "uptimeMonth": "92.81%",
+    "uptimeDay": "86.83%",
+    "uptimeWeek": "80.88%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.35%",
     "time": 273,
-    "timeDay": 261,
-    "timeWeek": 270,
+    "timeDay": 266,
+    "timeWeek": 272,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-02-21": 181,
+      "2025-02-21": 182,
       "2025-02-20": 282,
       "2025-02-19": 311,
       "2025-02-18": 319,
@@ -58,7 +58,7 @@
       "2025-02-13": 228,
       "2025-02-12": 241,
       "2025-02-11": 295,
-      "2025-02-10": 127
+      "2025-02-10": 104
     }
   },
   {
@@ -66,15 +66,15 @@
     "url": "https://v1.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v1.realzzy.xyz.ico",
     "slug": "old-website",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "87.08%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "99.40%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "87.07%",
+    "uptimeWeek": "81.17%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "99.41%",
     "time": 254,
-    "timeDay": 255,
-    "timeWeek": 267,
+    "timeDay": 259,
+    "timeWeek": 269,
     "timeMonth": 265,
     "timeYear": 233,
     "dailyMinutesDown": {
@@ -89,7 +89,7 @@
       "2025-02-13": 210,
       "2025-02-12": 225,
       "2025-02-11": 293,
-      "2025-02-10": 194
+      "2025-02-10": 144
     }
   }
 ]
