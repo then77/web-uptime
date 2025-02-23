@@ -4,18 +4,19 @@
     "url": "https://realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/realzzy.xyz.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "85.26%",
-    "uptimeWeek": "81.52%",
-    "uptimeMonth": "92.76%",
+    "uptimeDay": "85.18%",
+    "uptimeWeek": "81.51%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "99.40%",
-    "time": 273,
+    "time": 274,
     "timeDay": 258,
     "timeWeek": 341,
     "timeMonth": 316,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2025-02-23": 1,
       "2025-02-22": 213,
       "2025-02-21": 224,
       "2025-02-20": 286,
@@ -27,7 +28,7 @@
       "2025-02-14": 371,
       "2025-02-13": 234,
       "2025-02-12": 247,
-      "2025-02-11": 122
+      "2025-02-11": 87
     }
   },
   {
@@ -35,11 +36,11 @@
     "url": "https://v2.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v2.realzzy.xyz.ico",
     "slug": "v2-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "85.50%",
+    "uptimeDay": "85.46%",
     "uptimeWeek": "82.06%",
-    "uptimeMonth": "92.87%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "99.36%",
     "time": 272,
     "timeDay": 245,
@@ -47,6 +48,7 @@
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2025-02-23": 1,
       "2025-02-22": 209,
       "2025-02-21": 222,
       "2025-02-20": 282,
@@ -58,7 +60,7 @@
       "2025-02-14": 363,
       "2025-02-13": 228,
       "2025-02-12": 241,
-      "2025-02-11": 145
+      "2025-02-11": 118
     }
   },
   {
@@ -66,18 +68,19 @@
     "url": "https://v1.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v1.realzzy.xyz.ico",
     "slug": "old-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "85.74%",
+    "uptimeDay": "85.73%",
     "uptimeWeek": "82.33%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "99.41%",
+    "uptimeMonth": "92.99%",
+    "uptimeYear": "99.42%",
     "time": 254,
     "timeDay": 235,
     "timeWeek": 266,
     "timeMonth": 264,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2025-02-22": 206,
       "2025-02-21": 218,
       "2025-02-20": 279,
@@ -89,7 +92,7 @@
       "2025-02-14": 360,
       "2025-02-13": 210,
       "2025-02-12": 225,
-      "2025-02-11": 193
+      "2025-02-11": 171
     }
   }
 ]
