@@ -4,19 +4,19 @@
     "url": "https://realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/realzzy.xyz.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "77.46%",
-    "uptimeWeek": "80.73%",
-    "uptimeMonth": "92.38%",
-    "uptimeYear": "99.36%",
-    "time": 289,
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "77.38%",
+    "uptimeWeek": "80.75%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "99.37%",
+    "time": 290,
     "timeDay": 278,
-    "timeWeek": 323,
+    "timeWeek": 324,
     "timeMonth": 310,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-02-25": 198,
+      "2025-02-25": 199,
       "2025-02-24": 217,
       "2025-02-23": 256,
       "2025-02-22": 213,
@@ -28,7 +28,7 @@
       "2025-02-16": 185,
       "2025-02-15": 339,
       "2025-02-14": 371,
-      "2025-02-13": 97
+      "2025-02-13": 81
     }
   },
   {
@@ -36,19 +36,19 @@
     "url": "https://v2.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v2.realzzy.xyz.ico",
     "slug": "v2-website",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "77.76%",
-    "uptimeWeek": "81.43%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "77.72%",
+    "uptimeWeek": "81.46%",
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "99.33%",
     "time": 270,
     "timeDay": 282,
-    "timeWeek": 259,
+    "timeWeek": 260,
     "timeMonth": 268,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-02-25": 197,
+      "2025-02-25": 198,
       "2025-02-24": 214,
       "2025-02-23": 237,
       "2025-02-22": 209,
@@ -60,7 +60,7 @@
       "2025-02-16": 182,
       "2025-02-15": 335,
       "2025-02-14": 363,
-      "2025-02-13": 152
+      "2025-02-13": 117
     }
   },
   {
@@ -68,11 +68,11 @@
     "url": "https://v1.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v1.realzzy.xyz.ico",
     "slug": "old-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "78.07%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "78.06%",
+    "uptimeWeek": "81.74%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "99.38%",
     "time": 253,
     "timeDay": 286,
@@ -92,7 +92,7 @@
       "2025-02-16": 179,
       "2025-02-15": 328,
       "2025-02-14": 360,
-      "2025-02-13": 170
+      "2025-02-13": 135
     }
   }
 ]
