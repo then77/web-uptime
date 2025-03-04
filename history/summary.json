@@ -6,17 +6,17 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "84.22%",
-    "uptimeWeek": "80.05%",
-    "uptimeMonth": "92.41%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "81.01%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "99.37%",
     "time": 286,
-    "timeDay": 271,
-    "timeWeek": 263,
+    "timeDay": 287,
+    "timeWeek": 265,
     "timeMonth": 297,
-    "timeYear": 248,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-03-03": 228,
+      "2025-03-03": 217,
       "2025-03-02": 189,
       "2025-03-01": 318,
       "2025-02-28": 372,
@@ -28,7 +28,7 @@
       "2025-02-22": 213,
       "2025-02-21": 224,
       "2025-02-20": 286,
-      "2025-02-19": 145
+      "2025-02-19": 165
     }
   },
   {
@@ -38,17 +38,17 @@
     "slug": "v2-website",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "83.20%",
-    "uptimeWeek": "80.31%",
-    "uptimeMonth": "92.43%",
+    "uptimeDay": "83.91%",
+    "uptimeWeek": "81.26%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "99.33%",
     "time": 283,
-    "timeDay": 271,
-    "timeWeek": 343,
-    "timeMonth": 288,
+    "timeDay": 289,
+    "timeWeek": 346,
+    "timeMonth": 289,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-03-03": 242,
+      "2025-03-03": 232,
       "2025-03-02": 172,
       "2025-03-01": 315,
       "2025-02-28": 367,
@@ -60,7 +60,7 @@
       "2025-02-22": 209,
       "2025-02-21": 222,
       "2025-02-20": 282,
-      "2025-02-19": 194
+      "2025-02-19": 218
     }
   },
   {
@@ -70,17 +70,17 @@
     "slug": "old-website",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "85.77%",
-    "uptimeWeek": "80.93%",
-    "uptimeMonth": "92.56%",
-    "uptimeYear": "99.38%",
-    "time": 252,
-    "timeDay": 250,
-    "timeWeek": 252,
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "81.87%",
+    "uptimeMonth": "92.48%",
+    "uptimeYear": "99.37%",
+    "time": 253,
+    "timeDay": 266,
+    "timeWeek": 255,
     "timeMonth": 258,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-03": 206,
+      "2025-03-03": 196,
       "2025-03-02": 167,
       "2025-03-01": 310,
       "2025-02-28": 363,
@@ -92,7 +92,7 @@
       "2025-02-22": 206,
       "2025-02-21": 218,
       "2025-02-20": 279,
-      "2025-02-19": 215
+      "2025-02-19": 258
     }
   }
 ]
