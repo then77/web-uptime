@@ -6,9 +6,9 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "75.23%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "75.98%",
+    "uptimeWeek": "80.14%",
+    "uptimeMonth": "92.46%",
     "uptimeYear": "99.37%",
     "time": 271,
     "timeDay": 316,
@@ -16,7 +16,7 @@
     "timeMonth": 298,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-03-04": 358,
+      "2025-03-04": 347,
       "2025-03-03": 217,
       "2025-03-02": 189,
       "2025-03-01": 318,
@@ -28,7 +28,7 @@
       "2025-02-23": 256,
       "2025-02-22": 213,
       "2025-02-21": 224,
-      "2025-02-20": 54
+      "2025-02-20": 73
     }
   },
   {
@@ -38,9 +38,9 @@
     "slug": "v2-website",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "75.60%",
-    "uptimeWeek": "80.29%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "76.32%",
+    "uptimeWeek": "80.39%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "99.34%",
     "time": 284,
     "timeDay": 317,
@@ -48,7 +48,7 @@
     "timeMonth": 290,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-03-04": 350,
+      "2025-03-04": 340,
       "2025-03-03": 232,
       "2025-03-02": 172,
       "2025-03-01": 315,
@@ -60,7 +60,7 @@
       "2025-02-23": 237,
       "2025-02-22": 209,
       "2025-02-21": 222,
-      "2025-02-20": 101
+      "2025-02-20": 121
     }
   },
   {
@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/v1.realzzy.xyz.ico",
     "slug": "old-website",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "75.98%",
-    "uptimeWeek": "80.90%",
-    "uptimeMonth": "92.65%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.70%",
+    "uptimeDay": "76.66%",
+    "uptimeWeek": "81.00%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "99.38%",
     "time": 254,
     "timeDay": 296,
     "timeWeek": 256,
     "timeMonth": 259,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-03-04": 348,
+      "2025-03-04": 338,
       "2025-03-03": 196,
       "2025-03-02": 167,
       "2025-03-01": 310,
@@ -92,7 +92,7 @@
       "2025-02-23": 234,
       "2025-02-22": 206,
       "2025-02-21": 218,
-      "2025-02-20": 118
+      "2025-02-20": 173
     }
   }
 ]
