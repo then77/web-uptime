@@ -4,19 +4,19 @@
     "url": "https://realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/realzzy.xyz.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "79.04%",
-    "uptimeWeek": "77.16%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "85.20%",
+    "uptimeWeek": "77.53%",
+    "uptimeMonth": "93.05%",
     "uptimeYear": "99.42%",
     "time": 288,
-    "timeDay": 264,
-    "timeWeek": 312,
-    "timeMonth": 321,
+    "timeDay": 248,
+    "timeWeek": 310,
+    "timeMonth": 322,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-03-17": 146,
+      "2025-03-17": 147,
       "2025-03-16": 271,
       "2025-03-15": 453,
       "2025-03-14": 281,
@@ -26,7 +26,7 @@
       "2025-03-10": 377,
       "2025-03-09": 196,
       "2025-03-08": 308,
-      "2025-03-07": 102
+      "2025-03-07": 84
     }
   },
   {
@@ -34,19 +34,19 @@
     "url": "https://v2.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v2.realzzy.xyz.ico",
     "slug": "v2-website",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "79.39%",
-    "uptimeWeek": "77.44%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "77.80%",
+    "uptimeMonth": "93.10%",
+    "uptimeYear": "99.42%",
     "time": 293,
-    "timeDay": 251,
+    "timeDay": 226,
     "timeWeek": 307,
-    "timeMonth": 310,
+    "timeMonth": 311,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2025-03-17": 143,
+      "2025-03-17": 144,
       "2025-03-16": 269,
       "2025-03-15": 443,
       "2025-03-14": 303,
@@ -56,7 +56,7 @@
       "2025-03-10": 376,
       "2025-03-09": 189,
       "2025-03-08": 304,
-      "2025-03-07": 134
+      "2025-03-07": 100
     }
   },
   {
@@ -64,16 +64,16 @@
     "url": "https://v1.realzzy.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v1.realzzy.xyz.ico",
     "slug": "old-website",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "79.74%",
-    "uptimeWeek": "78.04%",
-    "uptimeMonth": "93.19%",
-    "uptimeYear": "99.43%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "85.68%",
+    "uptimeWeek": "78.40%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.44%",
     "time": 272,
-    "timeDay": 254,
-    "timeWeek": 311,
-    "timeMonth": 292,
+    "timeDay": 250,
+    "timeWeek": 310,
+    "timeMonth": 293,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2025-03-17": 142,
@@ -86,7 +86,7 @@
       "2025-03-10": 369,
       "2025-03-09": 188,
       "2025-03-08": 299,
-      "2025-03-07": 130
+      "2025-03-07": 97
     }
   }
 ]
