@@ -6,17 +6,17 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "73.67%",
-    "uptimeWeek": "76.24%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "72.52%",
+    "uptimeWeek": "76.35%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
     "time": 290,
     "timeDay": 230,
-    "timeWeek": 295,
-    "timeMonth": 318,
+    "timeWeek": 294,
+    "timeMonth": 317,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-03-18": 263,
+      "2025-03-18": 306,
       "2025-03-17": 264,
       "2025-03-16": 271,
       "2025-03-15": 453,
@@ -26,7 +26,7 @@
       "2025-03-11": 228,
       "2025-03-10": 377,
       "2025-03-09": 196,
-      "2025-03-08": 104
+      "2025-03-08": 85
     }
   },
   {
@@ -36,17 +36,17 @@
     "slug": "v2-website",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "74.03%",
-    "uptimeWeek": "76.51%",
-    "uptimeMonth": "92.90%",
+    "uptimeDay": "72.88%",
+    "uptimeWeek": "76.62%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "99.40%",
     "time": 291,
-    "timeDay": 216,
-    "timeWeek": 258,
+    "timeDay": 214,
+    "timeWeek": 257,
     "timeMonth": 307,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-03-18": 261,
+      "2025-03-18": 304,
       "2025-03-17": 257,
       "2025-03-16": 269,
       "2025-03-15": 443,
@@ -56,7 +56,7 @@
       "2025-03-11": 223,
       "2025-03-10": 376,
       "2025-03-09": 189,
-      "2025-03-08": 119
+      "2025-03-08": 102
     }
   },
   {
@@ -66,17 +66,17 @@
     "slug": "old-website",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "74.38%",
-    "uptimeWeek": "77.11%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "73.23%",
+    "uptimeWeek": "77.22%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "99.42%",
     "time": 271,
-    "timeDay": 245,
+    "timeDay": 243,
     "timeWeek": 296,
-    "timeMonth": 291,
+    "timeMonth": 290,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-03-18": 257,
+      "2025-03-18": 299,
       "2025-03-17": 255,
       "2025-03-16": 262,
       "2025-03-15": 440,
@@ -86,7 +86,7 @@
       "2025-03-11": 218,
       "2025-03-10": 369,
       "2025-03-09": 188,
-      "2025-03-08": 115
+      "2025-03-08": 99
     }
   }
 ]
